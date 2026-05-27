@@ -66,9 +66,9 @@ export default function HomePage() {
       >
         <div>
           <h2 className="text-5xl md:text-7xl font-bold leading-tight">
-            Designing for the
-            <br />
-            <span className="text-cyan-400">Digital Edge.</span>
+            Creativity Comes
+            {/* <br /> */}
+            <span className="text-cyan-400"> First.</span>
           </h2>
 
           <p className="text-white/60 mt-8 leading-8 max-w-xl">
