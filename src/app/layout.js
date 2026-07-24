@@ -1,8 +1,11 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Mona Yousefinejad",
-  description: "Mona Yousefinejad's portfolio website",
+  title: "Mona Yousefinejad - Frontend Developer",
+  description: "Frontend developer portfolio",
+  verification: {
+    google: "sNpiSziK1OlqFCxJfN-VQ909G6WTg7c20PR6gXAC-mw",
+  },
 };
 
 export default function RootLayout({ children }) {
