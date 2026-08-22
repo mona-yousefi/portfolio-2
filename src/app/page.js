@@ -6,7 +6,7 @@ const experiences = [
   {
     title: "Software Developer",
     company: "Raimon Darman Takta",
-    year: "May 2026 - Current",
+    year: "June 2026 - Current",
     description:
       "Design and develop an E-commerce Project of a compression stocking brand using React, Redux and MUI, Implemented and designed Biography sites specially for cardiovascular Drs",
   },
